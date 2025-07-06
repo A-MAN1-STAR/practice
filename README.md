@@ -1,2 +1,8 @@
-# practice
-此存储库用于练习 GitHub Flow
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    cout<<"hello world"<<endl;
+    return 0;
+}
